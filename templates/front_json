@@ -1,0 +1,5 @@
+[
+{% for p in posts %}
+  {{ p.render_json() }} 
+{% endfor %}
+]
