@@ -1,5 +1,5 @@
 Udacity CS-253
-hw5
+hw6
 ===
 
-home work 5 - json output
+home work 6 - chaching
